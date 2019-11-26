@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "390795935831",
+    "firebase_url": "https://fcmpushtestapp-47e01.firebaseio.com",
+    "project_id": "fcmpushtestapp-47e01",
+    "storage_bucket": "fcmpushtestapp-47e01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390795935831:android:c2fbd75731eb0c04346312",
+        "android_client_info": {
+          "package_name": "com.example.fcmpushnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "390795935831-gqqd6okgst8n6ql32f97d2i4rhcmt3bq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fcmpushnotification",
+            "certificate_hash": "42d28a8e245c6743c09f306e6781533c76b0ba7b"
+          }
+        },
+        {
+          "client_id": "390795935831-lh7lj48g5vdosj5psktam2lmpbtl32h2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5VA8AM7c85-kFHkvoeQC2MpmhemF6xHE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "390795935831-lh7lj48g5vdosj5psktam2lmpbtl32h2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
